@@ -1,0 +1,3 @@
+Class distribution: {0: 3, 1: 2}
+Total samples: 5
+40.0% of samples were correctly classified
